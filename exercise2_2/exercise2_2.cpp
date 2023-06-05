@@ -110,5 +110,6 @@ int main() {
     giga.tambahBuku(&multimedia_1);
 
     return 0;
+
 }
     
